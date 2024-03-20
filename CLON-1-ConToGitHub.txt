@@ -1,0 +1,2 @@
+this is a commit to add a new file and to make sure that how the connnection 
+between jira issues and github in connection with pull requests works.
